@@ -10,6 +10,7 @@
 
     .about {
         width: 1000px;
+        background-color: red;
     }
 
 }
@@ -17,7 +18,7 @@
 @media (min-width: 768px) {
 
     .about {
-
+        background-color: green;
     }
 
 }
@@ -25,7 +26,7 @@
 @media (min-width: 992px) {
 
     .about { 
-
+        background-color: purple;
     }
 
 }
