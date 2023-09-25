@@ -1,5 +1,9 @@
 @media only screen and (max-width: 600px) {
 
+    .logo {
+        width: 100%;
+    }
+
     .about {
         width: 100%;
         background-color: orange;
