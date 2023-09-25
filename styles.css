@@ -1,29 +1,39 @@
 @media (max-width: 600px) {
+
     .about {
         width: 100%;
     }
+
 }
 
 @media (min-width: 601px) {
+
     .about {
 
     }
+
 }
 
 @media (min-width: 768px) {
-    .about{
+
+    .about {
 
     }
+
 }
 
 @media (min-width: 992px) {
-    .about{
+
+    .about { 
 
     }
+
 }
 
 @media (min-width: 1200px) {
-    .about{
-        
+
+    .about {
+
     }
+    
 }
