@@ -9,7 +9,7 @@
 @media (min-width: 601px) {
 
     .about {
-
+        width: 1000px;
     }
 
 }
@@ -35,5 +35,5 @@
     .about {
 
     }
-    
+
 }
