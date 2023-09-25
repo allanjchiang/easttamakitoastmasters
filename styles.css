@@ -1,4 +1,4 @@
-@media (max-width: 600px) {
+@media only screen and (max-width: 600px) {
 
     .about {
         width: 100%;
@@ -6,7 +6,7 @@
 
 }
 
-@media (min-width: 601px) {
+@media only screen and (min-width: 601px) {
 
     .about {
         width: 1000px;
@@ -15,7 +15,7 @@
 
 }
 
-@media (min-width: 768px) {
+@media only screen and (min-width: 768px) {
 
     .about {
         background-color: green;
@@ -23,7 +23,7 @@
 
 }
 
-@media (min-width: 992px) {
+@media only screen and (min-width: 992px) {
 
     .about { 
         background-color: purple;
@@ -31,7 +31,7 @@
 
 }
 
-@media (min-width: 1200px) {
+@media only screen and (min-width: 1200px) {
 
     .about {
 
